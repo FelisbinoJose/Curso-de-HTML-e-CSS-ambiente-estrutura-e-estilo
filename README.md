@@ -11,3 +11,7 @@
 --- 
 
 # Plano de ensino
+
+### 28/01/2026 - [1a aula](https://github.com/FelisbinoJose/Curso-de-HTML-e-CSS-ambiente-estrutura-e-estilo/tree/2a-aula)
+
+- Explorando as tags HTML
