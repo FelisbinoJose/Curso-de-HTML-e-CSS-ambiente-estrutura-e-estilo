@@ -41,7 +41,8 @@ p {
     font-family: "Poppins", sans-serif;
     font-size: 24px;
     text-align: center;
-    margin-top: 24px;
+    margin: 24px auto 0;
+    width: 792px;
 }
 
 span {
@@ -63,9 +64,52 @@ a {
     margin: 40px auto;
 }
 
+a:hover {
+    background-color: #8233e8;
+}
+
 section img {
     display: block;
     width: 792px;
     height: 446px;
     margin: 0 auto;
+}
+
+@media(max-width: 768px){
+
+    header img{
+        margin: 65px 0 0 60px;
+    }
+    
+    p{
+        width: 648px;
+    }
+}
+
+@media(max-width: 375px){
+    header img {
+        margin: 32px 0 0 16px;
+    }
+
+    h1 {
+        font-size: 40px;
+    }
+
+    p {
+        font-size: 20px;
+        width: 340px;
+    }
+
+    a {
+        font-size: 20px;
+        width: 251px;
+    }
+
+    section img {
+        width: 340px;
+        height: 230px;
+    }
+
+
+    
 }
