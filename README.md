@@ -15,3 +15,11 @@
 ### 28/01/2026 - [1a aula](https://github.com/FelisbinoJose/Curso-de-HTML-e-CSS-ambiente-estrutura-e-estilo/tree/2a-aula)
 
 - Explorando as tags HTML
+
+### 28/01/2026 - [2a aula](https://github.com/FelisbinoJose/Curso-de-HTML-e-CSS-ambiente-estrutura-e-estilo/tree/3a-aula)
+
+- HTML semântico e boas práticas de layout
+
+### 28/01/2026 - [3a aula](https://github.com/FelisbinoJose/Curso-de-HTML-e-CSS-ambiente-estrutura-e-estilo/tree/4a-aula)
+
+- Estilizando e adaptando layouts com CSS.
